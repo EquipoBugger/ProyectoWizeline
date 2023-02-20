@@ -9,7 +9,8 @@ Nuestra visión es hacer de la inteligencia artificial un recurso cotidiano a fa
 
 Nuestros principales valores son:
 
-Predisposición a la acción.
+-Predisposición a la acción.
+
 Excelencia en cada entrega
 Responsabilidad social
 Compromiso con el cliente
