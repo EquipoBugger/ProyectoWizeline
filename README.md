@@ -29,4 +29,4 @@ Es necesario desarrollar una herramienta en línea que permita a los usuarios de
 
 Link al mockup:   https://www.figma.com/file/tEzJRMaydRXwwEFxHYqgAl/English-Evaluation-Mockup?node-id=16%3A5099&t=9tUFmNgYbi3VZU6m-1
 
-Link del logo del equipo: https://drive.google.com/file/d/1aQeUkyF8mBqEF_KPSLJzfH_4N6Xt9U49/view?usp=sharing
+Link del logo del equipo: [https://drive.google.com/file/d/1aQeUkyF8mBqEF_KPSLJzfH_4N6Xt9U49/view?usp=sharing](https://drive.google.com/file/d/1WwcW1PU7_RUSuNkjeVKwmWQjkCXPJ5a5/view?usp=share_link)
