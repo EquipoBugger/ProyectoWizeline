@@ -17,7 +17,8 @@ Liderazgo y colaboración.
 Altos estándares.
 Ética y Transparencia
 
-Nuestros roles
+Nuestros roles:
+
 Quality Manager ( Edgar Castillo )
 Tech Lead ( Salma )
 Scrum Master ( Santiago )
